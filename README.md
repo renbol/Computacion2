@@ -1,4 +1,4 @@
-# Computacion2-2021
+# Computacion2-2022
 <center> <h1>Universidad Nacional de San Agustín de Arequipa</h1> </center> 
 <center> <h1>Escuela Profesional de Ingeniería de Telecomunicaciones</h1> </center> 
 
